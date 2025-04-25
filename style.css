@@ -6,7 +6,7 @@
 }
 html {
 	font-size: 10px;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Tahoma', sans-serif;
 	scroll-behavior: smooth;
 }
 a {
@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./17.jpg);
+	background-image: url(./wwe.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -494,7 +494,7 @@ p {
 
 /* Footer */
 #footer {
-	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+	background-image: linear-gradient(60deg, #0a141f 0%, #587a9b 100%);
 }
 #footer .footer {
 	min-height: 200px;
